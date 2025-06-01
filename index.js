@@ -40,6 +40,7 @@ const fortunes = [
     "You might get blamed for something you didn’t do.",
     "You’ll discover something surprisingly useful.",
     "A challenge will reveal your strength.",
+    "333",
     "You may step on something wet with socks on."
 ];
 
