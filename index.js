@@ -41,6 +41,7 @@ const fortunes = [
     "You’ll discover something surprisingly useful.",
     "A challenge will reveal your strength.",
     "333",
+    "You will lose",
     "You may step on something wet with socks on."
 ];
 
