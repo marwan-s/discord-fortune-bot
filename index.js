@@ -10,7 +10,6 @@ const client = new Client({
 const fortunes = [
  "You will have a great day!",
     "Something unexpected will happen.",
-    "Your code will run on the first try!",
     "A surprise is coming your way.",
     "Don't forget to take breaks!",
     "Your coffee might spill today—be careful!",
@@ -33,7 +32,6 @@ const fortunes = [
     "You're going to crush your next task.",
     "There may be delays—don’t let them ruin your vibe.",
     "You’ll overhear something funny today.",
-    "One tab too many might crash your browser.",
     "Today’s mood: cautiously optimistic.",
     "You may accidentally say what you're thinking.",
     "Someone will compliment your work.",
